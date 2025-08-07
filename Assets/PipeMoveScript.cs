@@ -6,6 +6,7 @@ public class Script : MonoBehaviour
 {
 
     public float moveSpeed = 5;
+    public int deadZone = -45;
 
     // Start is called before the first frame update
     void Start()
@@ -17,5 +18,10 @@ public class Script : MonoBehaviour
     void Update()
     {
         transform.position = transform.position + (Vector3.left * moveSpeed) * Time.deltaTime;
+
+        if (transform.position.x < deadZone)
+        {
+            Destroy(gameObject);
+        }
     }
 }
