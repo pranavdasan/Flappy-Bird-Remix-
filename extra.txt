@@ -1,0 +1,3 @@
+Got my pipes to start spawning! Getting the variable spawn height just right was probably the hardest part though. Next up score system... or maybe colisions?
+
+Also, I fixed the bird rotating issue! I forgot to freeze the Z-axis of the rigidbody...
