@@ -24,4 +24,4 @@ Check out Flappy Bird Remixed on my Itch.io page and let me know what you think!
 
 [https://lilcodey.itch.io/flappy-bird-remixed](https://lilcodey.itch.io/flappy-bird-remixed)
 
-Also included PC build in the repo if that works better.
+Also included [PC build](https://github.com/pranavdasan/Flappy-Bird-Remix-/blob/main/Builds/Flappy%20Bird%20%5BRemixed%5D_PC_Build.zip) in the repo if that works better.
